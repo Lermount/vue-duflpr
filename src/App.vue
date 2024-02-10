@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import RubricTree from './components/RubricTree.vue';
+import RubricTree from '@/components/RubricTree.vue';
 
 export default {
   components: {
